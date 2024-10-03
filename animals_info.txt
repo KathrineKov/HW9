@@ -1,0 +1,5 @@
+Name: Mars, Genus: dog
+Name: Dumbo, Genus: elephant
+Name: Kaa, Genus: python
+Name: Bosya, Genus: cat
+Name: Rony, Genus: fox
